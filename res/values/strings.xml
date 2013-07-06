@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StopNow</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hoi"></string>
+    <string name="hoii">hallo</string>
+    <string name="gerookt">Ik heb een sigaret gerookt!</string>
+    <string name="today">Vandaag gerookt: 0</string>
+    <string name="todayy">Vandaag gerookt:</string>
+    <string name="bloedsnel">Bloeddruk en snelheid van het hart is weer normaal:</string>
+    <string name="nicotine">Nicotine in bloed gedaald met 93,75%:</string>
+    <string name="zuurstof">Zuurstof in het lichaam is weer normaal:</string>
+    <string name="behoefte">Behoefte naar een sigaret daalt:</string>
+    <string name="zenuwen">Zenuwen groeien terug:</string>
+    <string name="nicotinevrij">100% nicotine vrij:</string>
+    <string name="verslaving">Verslaving mindert:</string>
+    <string name="conditie">Conditie is verbeterd:</string>
+
+</resources>

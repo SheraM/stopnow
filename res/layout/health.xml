@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFF1"
+    android:orientation="vertical" >
+    
+            <TextView
+                android:id="@+id/tvWPPP1"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/bloedsnel" />
+
+            <ProgressBar
+                android:id="@+id/progressBar1"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+
+                        <TextView
+                            android:id="@+id/tvWPPP2"
+                            android:layout_width="250dip"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:text="@string/nicotine" />
+
+            <ProgressBar
+                android:id="@+id/progressBar2"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+
+             <TextView
+                 android:id="@+id/tvWPPP3"
+                 android:layout_width="250dip"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center_horizontal"
+                 android:text="@string/zuurstof" />
+
+            <ProgressBar
+                android:id="@+id/progressBar3"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+            
+             <TextView
+                 android:id="@+id/tvWPPP4"
+                 android:layout_width="250dip"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center_horizontal"
+                 android:text="@string/behoefte" />
+
+            <ProgressBar
+                android:id="@+id/progressBar4"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+
+            <TextView
+                android:id="@+id/tvWCPP5"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/zenuwen" />
+
+            <ProgressBar
+                android:id="@+id/progressBar5"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+            
+             <TextView
+                 android:id="@+id/tvWPPP6"
+                 android:layout_width="250dip"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center_horizontal"
+                 android:text="@string/nicotinevrij" />
+
+            <ProgressBar
+                android:id="@+id/progressBar6"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+
+             <TextView
+                 android:id="@+id/tvWPPP7"
+                 android:layout_width="250dip"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center_horizontal"
+                 android:text="@string/verslaving" />
+
+            <ProgressBar
+                android:id="@+id/progressBar7"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+            
+             <TextView
+                 android:id="@+id/tvWPPP8"
+                 android:layout_width="250dip"
+                 android:layout_height="wrap_content"
+                 android:layout_gravity="center_horizontal"
+                 android:text="@string/conditie" />
+
+            <ProgressBar
+                android:id="@+id/progressBar8"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="250dip"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:max="100" />
+
+</LinearLayout>
